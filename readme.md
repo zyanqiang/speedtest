@@ -14,4 +14,4 @@ go开发的speedtest ,自带web，参考https://github.com/adolfintel/speedtest
 }
 
 启动服务 ./control start
-
+关闭服务 ./control stop
