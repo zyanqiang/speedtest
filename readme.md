@@ -6,4 +6,12 @@ go开发的speedtest ,自带web，参考https://github.com/adolfintel/speedtest
 
 
 
+修改 conf\config-base.json 绑定ip和监听端口号
+
+{
+	"Port": 8899,
+	"Addr": "0.0.0.0"
+}
+
+启动服务 ./control start
 
